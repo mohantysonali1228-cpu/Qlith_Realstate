@@ -10,4 +10,4 @@ Welcome to my portfolio project.
 - JavaScript
 
 ## Author
-Sushree Elina Sahoo
+Sonali Mohanty
